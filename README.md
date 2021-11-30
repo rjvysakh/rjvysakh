@@ -31,5 +31,15 @@
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjvysakh&show_icons=true&locale=en" alt="rjvysakh" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjvysakh&" alt="rjvysakh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjvysakh&" alt="rjvysakh" /></p>
+ -->
+ 
+ ### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rjvysakh/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rjvysakh/github-stats-transparent/output/generated/languages.svg)
 
+</a>
+
+<br>
