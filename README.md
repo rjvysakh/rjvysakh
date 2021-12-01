@@ -24,7 +24,7 @@
 <a href="https://instagram.com/_.rjlicious._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rjlicious._" height="30" width="40" /></a>
 </p>
 
- 
+ <br>
  ### 📊 Github Stats
 <a href='https://github.com/rjvysakh/github-stats-transparent'>
   
