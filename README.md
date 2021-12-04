@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **visakhrj@gmail.com**
 
-- ⚡ Fun fact **kinda not so creative tech guy**
+- ⚡ Fun fact **the not so creative tech guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
