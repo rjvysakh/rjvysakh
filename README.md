@@ -25,7 +25,7 @@
 </p>
 
  <br>
- ### 📊 Github Stats
+ <h3 align="left">📊 Github Stats:</h3>
 <a href='https://github.com/rjvysakh/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rjvysakh/github-stats-transparent/output/generated/overview.svg)
