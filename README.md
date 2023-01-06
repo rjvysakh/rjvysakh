@@ -12,7 +12,7 @@
 
 - ✨ I’m interested in **Robotic Process Automation, IoT, DevOps**
 
-- 💬 Ask me about **Flutter,MERN,python, native android**
+- 💬 Ask me about **Flutter ,MERN, Python, native android**
 
 - 📫 How to reach me **visakhrj@gmail.com**
 
