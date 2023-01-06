@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_vysakhrj" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_vysakhrj?logo=twitter&style=for-the-badge" alt="i_am_vysakhrj" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, React JS, Swift**
+- 🌱 I’m currently learning **FastAPI, React Native, Swift**
 
-- 🌱 I’m interested in **Augmented Reality, IoT**
+- ✨ I’m interested in **Robotic Process Automation, IoT, DevOps**
 
-- 💬 Ask me about **flutter, native android**
+- 💬 Ask me about **Flutter,MERN,python, native android**
 
 - 📫 How to reach me **visakhrj@gmail.com**
 
