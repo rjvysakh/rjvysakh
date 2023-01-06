@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter,MERN,python, native android**
 
-- 📫 How to reach me **visakhrj@gmail.com**
+- 📫 How to reach me **visakhrj@gmail.com, +919847070424**
 
 - ⚡ Fun fact **the not so creative tech guy**
 
